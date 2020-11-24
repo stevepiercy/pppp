@@ -18,4 +18,4 @@ Pyramid
 [https://github.com/pylons/pyramid](https://github.com/pylons/pyramid)
 
 pyramid-cookiecutter-starter  
-[https://github.com/pylons/pyramid-cookiecutter-starter/](https://github.com/pylons/pyramid-cookiecutter-starter/)
+[https://github.com/pylons/pyramid-cookiecutter-starter](https://github.com/pylons/pyramid-cookiecutter-starter)
