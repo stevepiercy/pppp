@@ -15,7 +15,8 @@ Purchase PyCharm
 All PloneConf attendees can get PyCharm Professional for 20% off with the code `PLONE20`.
 
 Pyramid  
-[https://github.com/pylons/pyramid](https://github.com/pylons/pyramid)
+[https://github.com/pylons/pyramid](https://github.com/pylons/pyramid)  
+[https://trypyramid.com/](https://trypyramid.com/)
 
 pyramid-cookiecutter-starter  
 [https://github.com/pylons/pyramid-cookiecutter-starter](https://github.com/pylons/pyramid-cookiecutter-starter)
